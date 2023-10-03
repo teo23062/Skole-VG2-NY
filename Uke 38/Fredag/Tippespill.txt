@@ -1,0 +1,17 @@
+Importere random slik at jeg kan generere ett tilfeldig tall
+
+Sette ett makstall slik at den ikke genererer noe over 100
+
+Generere ett tilfeldig tall
+
+Lage en variabel som er true
+
+Lage en while som kjører når variabelen er true
+
+Stille spørsmålet
+
+Gjøre tallet bruekrern skrev inn til heltall
+
+Si at variabelen er false når brukeren tipepr riktig
+
+Lage mange if setninger, en for hver, brukerern skriver ett for høyt tall, for lavt eller hvis brukerern skriver noe under 0 eller over 100

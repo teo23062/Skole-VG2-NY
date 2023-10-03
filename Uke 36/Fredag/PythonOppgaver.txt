@@ -1,0 +1,7 @@
+Jeg lager en variabel med en input hvor brukerern kan skrive ett tall
+
+Så gjør jeg slik at den gjør det alltid om til heltall
+
+Så sier jeg det at den skal kjøre 10 ganger
+
+Så skal den gange tall med i som er antall ganger

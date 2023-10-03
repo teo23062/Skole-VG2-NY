@@ -1,0 +1,10 @@
+Importere math 
+
+Så lage en input som ber om hvor mye man må betale
+
+Så lage en inout som ber om hva du betaler med 
+
+Så bruker vi int på begge
+
+Så må vi lage individuelle if setninger der vi printer hvor mye penger du får tilbake, dette gjør vi ved å ta hva du betaler emd å deler det på penge seddelen
+Så tar vi modulus av pengesummen som gjør at den fjerner 1000 for eksempel fra summen så mange ganger den kan

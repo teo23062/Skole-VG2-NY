@@ -1,0 +1,15 @@
+Lage en liste med alle spørsmålene
+
+Lage en liste med alternativ 1
+Lage en liste med alternativ 2
+Lage en liste med alternativ 3
+Lage en liste med Riktig Svar
+
+Lage en variabel som holder brukerens peongsum
+
+Lage en for løkke som skal gå gjennom alle spørsmålene å printe de
+Printer spørsmålene
+Printer spørsmålene i riktig rekkefølge
+Spør etter svar
+
+Sjekker om brukeren skriver riktig svar
