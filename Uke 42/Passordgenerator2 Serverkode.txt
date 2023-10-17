@@ -1,0 +1,16 @@
+Importere string og random 
+
+Lage en variabel som spørr hvor langt passordet skal være
+Gjøre dette til en int
+
+Lage en liste som lagrer passordet
+
+Lager en for løkke som skal kjøre antall ganger som bruker definerer
+
+Genererer tilfeldig tall
+Putter disse tallene i listen passord 
+
+Generere tilfeldig bokstav
+Putter disse bokstave i listen passord 
+
+printer passord 

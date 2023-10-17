@@ -1,0 +1,22 @@
+Spørre brukeren om hvor langt passordet skal være
+
+Lager mange variabelere som sier det at foreløpig så er alt False
+
+Sjekker om passordlengden er på over 8
+Så sier jeg at lengde variabelen er True, altså den er lang nok
+
+Sjekker om passordet har en stor bokstav
+Så sier jeg at stor bokstav variabelen er True, altså passordet har en stor bokstav
+
+Sjekker om passordet har en lten bokstav
+Så sier jeg at liten bokstav variabelen er True, altså passordet har en liten bokstav
+
+Sjekker om passordet har ett tall
+Så sier jeg at tall variabelen er True, altså passordet har ett tall
+
+Sjekker om passordet har ett spesialtegn
+Så sier jeg at spesialtegn variabelen er True, altså passordet har ett spesialtegn
+
+Sier at hvis en av de er False fortsatt så sender den en melding å sier at brukeren må fikse det
+
+Sjekke om alle er True og når alle er True så sender den en melding som sier at alle krav er oppfylt
