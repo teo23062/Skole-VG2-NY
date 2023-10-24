@@ -1,0 +1,1 @@
+I bildet vil du kunne se ett lett eksempel på hvordan å lage en database for ett bibliotek.
