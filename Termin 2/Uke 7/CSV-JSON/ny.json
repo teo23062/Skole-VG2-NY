@@ -1,0 +1,202 @@
+{
+    "1": {
+        "a-nr": "1",
+        "fornavn": "Hans",
+        "etternavn": "Hansen",
+        "kjonn": "mann",
+        "lonn": "493000",
+        "avdeling": "salg"
+    },
+    "2": {
+        "a-nr": "2",
+        "fornavn": "Fredrik",
+        "etternavn": "Sand",
+        "kjonn": "mann",
+        "lonn": "673000",
+        "avdeling": "ledelsen"
+    },
+    "3": {
+        "a-nr": "3",
+        "fornavn": "Hanne",
+        "etternavn": "Svendsen",
+        "kjonn": "kvinne",
+        "lonn": "530000",
+        "avdeling": "ledelsen"
+    },
+    "4": {
+        "a-nr": "4",
+        "fornavn": "Frida",
+        "etternavn": "Finne",
+        "kjonn": "kvinne",
+        "lonn": "770000",
+        "avdeling": "salg"
+    },
+    "5": {
+        "a-nr": "5",
+        "fornavn": "Terje",
+        "etternavn": "Trulsen",
+        "kjonn": "mann",
+        "lonn": "490000",
+        "avdeling": "teknisk"
+    },
+    "6": {
+        "a-nr": "6",
+        "fornavn": "Henning",
+        "etternavn": "Berg",
+        "kjonn": "mann",
+        "lonn": "810000",
+        "avdeling": "teknisk"
+    },
+    "7": {
+        "a-nr": "7",
+        "fornavn": "Hilde",
+        "etternavn": "Nord",
+        "kjonn": "kvinne",
+        "lonn": "920000",
+        "avdeling": "regnskap"
+    },
+    "8": {
+        "a-nr": "8",
+        "fornavn": "Wenche",
+        "etternavn": "Pettersen",
+        "kjonn": "kvinne",
+        "lonn": "709000",
+        "avdeling": "ledelsen"
+    },
+    "9": {
+        "a-nr": "9",
+        "fornavn": "Dortea",
+        "etternavn": "Tiller",
+        "kjonn": "kvinne",
+        "lonn": "640000",
+        "avdeling": "salg"
+    },
+    "10": {
+        "a-nr": "10",
+        "fornavn": "Vilde",
+        "etternavn": "Heistad",
+        "kjonn": "kvinne",
+        "lonn": "490000",
+        "avdeling": "ledelsen"
+    },
+    "11": {
+        "a-nr": "11",
+        "fornavn": "Finn",
+        "etternavn": "Hagen",
+        "kjonn": "mann",
+        "lonn": "485000",
+        "avdeling": "ledelsen"
+    },
+    "12": {
+        "a-nr": "12",
+        "fornavn": "Dortea",
+        "etternavn": "Walle",
+        "kjonn": "kvinne",
+        "lonn": "376000",
+        "avdeling": "regnskap"
+    },
+    "13": {
+        "a-nr": "13",
+        "fornavn": "Signe",
+        "etternavn": "Finnsrud",
+        "kjonn": "kvinne",
+        "lonn": "413000",
+        "avdeling": "salg"
+    },
+    "14": {
+        "a-nr": "14",
+        "fornavn": "Dortea",
+        "etternavn": "Dolmen",
+        "kjonn": "kvinne",
+        "lonn": "670000",
+        "avdeling": "salg"
+    },
+    "15": {
+        "a-nr": "15",
+        "fornavn": "Dora",
+        "etternavn": "Kjelmyr",
+        "kjonn": "kvinne",
+        "lonn": "587000",
+        "avdeling": "salg"
+    },
+    "16": {
+        "a-nr": "16",
+        "fornavn": "Dorte",
+        "etternavn": "Hansen",
+        "kjonn": "kvinne",
+        "lonn": "740000",
+        "avdeling": "regnskap"
+    },
+    "17": {
+        "a-nr": "17",
+        "fornavn": "Sam",
+        "etternavn": "Eide",
+        "kjonn": "mann",
+        "lonn": "390000",
+        "avdeling": "salg"
+    },
+    "18": {
+        "a-nr": "18",
+        "fornavn": "Kim",
+        "etternavn": "Heistad",
+        "kjonn": "mann",
+        "lonn": "490000",
+        "avdeling": "ledelsen"
+    },
+    "19": {
+        "a-nr": "19",
+        "fornavn": "Stian",
+        "etternavn": "Seim",
+        "kjonn": "mann",
+        "lonn": "485000",
+        "avdeling": "teknisk"
+    },
+    "20": {
+        "a-nr": "20",
+        "fornavn": "Dorta",
+        "etternavn": "Brun",
+        "kjonn": "kvinne",
+        "lonn": "376000",
+        "avdeling": "teknisk"
+    },
+    "21": {
+        "a-nr": "21",
+        "fornavn": "Sigrunn",
+        "etternavn": "Telnes",
+        "kjonn": "kvinne",
+        "lonn": "413000",
+        "avdeling": "salg"
+    },
+    "22": {
+        "a-nr": "22",
+        "fornavn": "Trine",
+        "etternavn": "Bogstad",
+        "kjonn": "kvinne",
+        "lonn": "670000",
+        "avdeling": "teknisk"
+    },
+    "23": {
+        "a-nr": "23",
+        "fornavn": "Hege",
+        "etternavn": "Kjelmyr",
+        "kjonn": "kvinne",
+        "lonn": "587000",
+        "avdeling": "salg"
+    },
+    "24": {
+        "a-nr": "24",
+        "fornavn": "Dorte",
+        "etternavn": "Mandal",
+        "kjonn": "kvinne",
+        "lonn": "740000",
+        "avdeling": "regnskap"
+    },
+    "25": {
+        "a-nr": "25",
+        "fornavn": "Sveinug",
+        "etternavn": "Eide",
+        "kjonn": "mann",
+        "lonn": "390000",
+        "avdeling": "salg"
+    }
+}
